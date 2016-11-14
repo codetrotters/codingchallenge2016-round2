@@ -22,6 +22,8 @@ This is Round 2 of the Codetrotters Fellowship application.  **You must be invit
 
 To participate in this challenge, you need a *GitHub* account. Fork this repository and once you finish with your solution, *send* us a Pull Request.
 
+If you are not familiar with Git or Github, you can submit your challenge [here](https://codetrotters.typeform.com/to/d5Yv3M).
+
 We are looking forward to reading all your solutions!
 
 ##Challenge
