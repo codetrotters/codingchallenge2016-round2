@@ -33,4 +33,4 @@ For example, the input `[ 50, 9, 17, 0]` should return the integer `950170`.
 
 ## Submission
 
-Please submit your answer [here](https://codetrotters.typeform.com/to/tMgs1X)
+Please submit your answer [here](https://codetrotters.typeform.com/to/tMgs1X).  
