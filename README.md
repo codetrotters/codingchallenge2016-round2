@@ -15,17 +15,6 @@ As part of the application process we post a coding challenge every year, and th
 
 You can read more about the Codetrotters *Fellowship* at [http://www.codetrotters.com/fellowship](http://www.codetrotters.com/fellowship)
 
-
-##Participating in the Challenge
-
-This is Round 2 of the Codetrotters Fellowship application.  **You must be invited to participate.**  Invitations will be sent based on performance in the first challenge, which can be found [here](https://github.com/codetrotters/codingchallenge2016).
-
-To participate in this challenge, you need a *GitHub* account. Fork this repository and once you finish with your solution, *send* us a Pull Request.
-
-If you are not familiar with Git or Github, you can submit your challenge [here](https://codetrotters.typeform.com/to/d5Yv3M).
-
-We are looking forward to reading all your solutions!
-
 ##Challenge
 
 Write a function that takes as an input an array of natural numbers and returns the greatest integer result of combining those natural numbers.
@@ -41,3 +30,7 @@ For example, the input `[ 50, 9, 17, 0]` should return the integer `950170`.
 [ 8, 4, 100 ]               =>  84100
 [ 0, 1, 2, 3, 4, 5, 6, 7 ]  =>  7654321
 ```
+
+## Submission
+
+Please submit your answer [here](https://codetrotters.typeform.com/to/tMgs1X)
